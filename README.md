@@ -1,10 +1,3 @@
-
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=mr8ug&count_private=true&show_icons=true&hide=contribs)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr8ug&layout=compact)
-
-
 # Carlos Emilio Campos Morán
 ##### Ingeniero Middle de Automatización de Pruebas (Pivote) @ Banco Industrial, S.A.
 📍 Villa Nueva, Guatemala  
@@ -91,3 +84,11 @@ _Graduación: 2015_
 - Shell scripting  
 - Uso avanzado de herramientas de ofimática  
 - Control de versiones con GitHub
+
+
+
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=mr8ug&count_private=true&show_icons=true&hide=contribs)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mr8ug&layout=compact)
